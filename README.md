@@ -1,10 +1,12 @@
-# 中山大学深度学习大作业————yolov5+lpr3+deepsort交通识别检测系统
+# 中山大学深度学习大作业--yolov5+lpr3+deepsort交通识别检测系统
 
 本次大作业，我们小组完成了基于[Yolov5](https://github.com/ultralytics/yolov5) 的车型、行人、车牌检测，基于[lpr3](https://github.com/szad670401/HyperLPR)的车牌号码识别以及基于[deepsort](https://github.com/dyh/unbox_yolov5_deepsort_counting)的车流量计数任务，并将所有功能集成为一体，完成了一个交互式的交通识别检测GUI系统。
 
-![]()
-![]()
-![]()
+![](https://github.com/donahowe/traffic-detect-GUI/blob/main/GUI_picture/window.hpg)
+
+![](https://github.com/donahowe/traffic-detect-GUI/blob/main/GUI_picture/1.gif)
+
+![](https://github.com/donahowe/traffic-detect-GUI/blob/main/GUI_picture/2.gif)
 
 ## Our Idea
 
