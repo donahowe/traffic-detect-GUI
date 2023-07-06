@@ -35,4 +35,4 @@ python mymain.py
 
 ### Pre-trained Models
 
-您可以在[此处]([https://drive.google.com/drive/folders/1jIr8dkvefrQmv737fFm2isiT6tqpbTbv](https://drive.google.com/file/d/1qMw3ofK_nJauSrvDFTfoThprqvynLgB7/view?usp=sharing)https://drive.google.com/file/d/1qMw3ofK_nJauSrvDFTfoThprqvynLgB7/view?usp=sharing)下载我们的yolov5车型+行人检测预训练模型。
+您可以在[此处](https://drive.google.com/file/d/1qMw3ofK_nJauSrvDFTfoThprqvynLgB7/view?usp=sharing)下载我们的yolov5车型+行人检测预训练模型。
