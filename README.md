@@ -10,13 +10,14 @@
 
 ## Our Idea
 
-This project is a faithful PyTorch implementation
+我们首先选用了速度更快的Yolov5作为基模型，完成10种车型，行人的目标检测任务。在此基础上，我们使用了封装好的lpr3库完成了车牌的检测任务，并以deepsort为基础完成了4种类别的目标流量计数。最后我们将所有的功能封装进了该GUI系统中，以用于车辆实时计数。
 
 ## Installation
 
-快速安装操作：
+**！！！注意！！！** 由于本项目过大，在此仅展示核心代码，请点击[此链接](https://drive.google.com/file/d/1qMw3ofK_nJauSrvDFTfoThprqvynLgB7/view?usp=sharing)手动下载完整的项目
+
+环境配置：
 ```
-git clone https://github.com/donahowe/traffic-detect-GUI.git
 cd traffic-detect-GUI
 pip install -r requirements.txt
 ```
@@ -35,4 +36,4 @@ python mymain.py
 
 ### Pre-trained Models
 
-您可以在[此处](https://drive.google.com/file/d/1qMw3ofK_nJauSrvDFTfoThprqvynLgB7/view?usp=sharing)下载我们的yolov5车型+行人检测预训练模型。
+您可以在[此处](https://drive.google.com/file/d/1qMw3ofK_nJauSrvDFTfoThprqvynLgB7/view?usp=sharing)下载我们的yolov5车型+行人识别预训练模型。
